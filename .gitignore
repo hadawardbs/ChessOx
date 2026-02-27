@@ -1,0 +1,44 @@
+# Chess / Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# C++ / Build
+build/
+bin/
+lib/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+*.a
+*.o
+*.so
+OxtaCore
+OxtaCore.exe
+
+# Local Data / Results
+*.csv
+*.json
+*.epd
+!requirements.txt
+
+# Selenium / Browser Assets
+geckodriver.log
+.wdm/
+snap/
+.mozilla/
+firefox_profile/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+.swp
+*~
