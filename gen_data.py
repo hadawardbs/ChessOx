@@ -4,6 +4,7 @@ import chess.pgn
 import random
 import os
 import sys
+import subprocess
 
 # Data Generation for Texel Tuning
 # Generates random positions and asks Stockfish for evaluation.
