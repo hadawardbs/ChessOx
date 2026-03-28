@@ -15,4 +15,4 @@ High-performance Chess.com automation powered by the OxtaCore C++ engine and Sel
 ## License
 MIT
 
-##É O OXTA
+## É O OXTA
